@@ -1,4 +1,4 @@
->>> breed = input("Is this a dog or a cat?")
+breed = input("Is this a dog or a cat?")
 
 weight = float(input("What is the weight?"))
 
